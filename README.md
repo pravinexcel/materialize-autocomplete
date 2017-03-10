@@ -1,1 +1,1 @@
-# materialize-ajax-autocomplete
+# materialize-autocomplete
